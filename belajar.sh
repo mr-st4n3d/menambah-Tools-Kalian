@@ -27,7 +27,7 @@ figlet MenambahToolsKalian | lolcat
 
 echo "_____________________________________________________________"
 echo "Tools    : kumpulanToolsCrack $white                         " |lolcat
-echo "Creadby  : Mr.Cℜɑℭƙℰɗ:D                                      " |lolcat
+echo "Creadby  : Mr.CRACKED:D                                      " |lolcat
 echo "Contact  : 08567421776    $white                             " |lolcat
 echo "_____________________________________________________________"
 
